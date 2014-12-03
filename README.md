@@ -50,8 +50,10 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 
 * [EdX]() – ditto.
 
-* [TED Talks](http://ted.com)
-
+* [TED Talks](http://ted.com) and other short videos
+ 
+ My plan is to use these on Fridays, when we have short days, and as a backup plan for when I need a sub and don't have a lesson that would be easily taught by someone who doesn't know the field and/or the students.
+ 
  I assume you know about TED… If not get acquainted right now! TED is a rich source of ideas on a huge range of subjects including CS, education, globalization, social problems and solutions. Here are some of my favorites with at least tangential connections to CS (and CS education). In no particular order:
 
  * [Eli Pariser: Beware online "filter bubbles"](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) – how algorithms narrow your world – for better and worse.
