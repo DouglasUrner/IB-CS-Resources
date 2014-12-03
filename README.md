@@ -3,11 +3,12 @@ IB-CS
 
 Resources for teaching IB CS. Pull requests are welcome.
 
-## Curricular Stuff
+## Intro / Pre-IB CS Resources
 
 * [Exploring Computer Science](http://exploringcs.org) (ECS) – this is an excellent introduction to CS. The curriculum is designed to scaffold learning for "non-traditional" CS students and the materials are created with the explicit intention of supporting equity in CS education. The section on Problem Solving is an excellent introduction to problem solving and computational thinking. It would be a good MYP level introduction to CS.
 
-* [CS Unplugged](http://csunplugged.com) – resources for teaching CS without a computer. The activities around algorithms work well at the high school level (late MYP, even DP). There is a downloadable text and online resources.
+* [CS Unplugged](http://csunplugged.com) – resources for teaching CS without a computer. The activities around algorithms work well at the high school level (late MYP, even DP). There is a downloadable text and online resources.
+* [Hour of Code](http://code.org) – activities around a one class period introduction to programming and computer science.
 
 ## Books
 
