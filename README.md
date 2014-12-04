@@ -45,6 +45,9 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 
  * [Adafruit](http://adafruit.com) – source for components and excellent tutorials. The site is built around the idea that hacking and learning are activities worth doing and supporting. There are excellent resources and project ideas for the Aruduino, Raspberry Pi and several other similar boards. The discussion forums provide access to people working on the tutorials. The site is also great inspiration for young women exploring career ideas in CS and electronics.
 
+* [Bootstrap](http://getbootstrap.com) – 
+ The great value of Bootstrap (as a teaching tool) is that it gives students a way to (relatively) easily make a good looking website without drowning in CSS details. To do this they have to develop the skill of reading code and documentation.
+
 ## Online Resources
 
 * [StackOverflow]() – an online question-and-answer format site with a strong bias towards CS. You'll often hit this site with searches for CS information and the answer are frequently very good.
