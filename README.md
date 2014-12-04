@@ -1,4 +1,4 @@
-IB-CS
+IB Computer Science Resources
 =====
 
 Resources for teaching IB CS. Pull requests are welcome.
