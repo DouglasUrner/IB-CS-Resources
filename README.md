@@ -33,7 +33,8 @@ Some of the best resources/practices I've seen for introducing and coaching pair
 
 * [Wikipedia article on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
 * [Pair Programming in a Flash: How to Pair, and Why](https://pragprog.com/magazines/2011-06/pair-programming-in-a-flash)
-* [Pair Programming Benefits: Two Heads Are Better than One]()
+* [Pair Programming Benefits: Two Heads Are Better than One](https://pragprog.com/magazines/2011-07/pair-programming-benefits)
+* [Pair Programming is Kryptonite](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/)
 
 Pair programming aligns well with Agile methods.
 
