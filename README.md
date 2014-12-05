@@ -12,7 +12,7 @@ Resources for teaching IB CS. Pull requests are welcome.
 ## Organizations Supporting CS Education
 
 * [Black Girls Code](http://www.blackgirlscode.com) – [TED Talk by founder Kimberly Bryant](https://www.youtube.com/watch?v=TJ-m47CxAI0)
-* [Code.org](http://code.org) – 
+* [Code.org](http://code.org) –
 
 ## Books
 
@@ -24,6 +24,26 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 * [TCP/IP Illustrated](http://en.wikipedia.org/wiki/TCP/IP_Illustrated), by W. Richard Stephens – this is a three-volume set of books that provide an accessible, in-depth, look at the TCP/IP protocol suite. The books were first published in 1994 and have been revised a couple of times since. The core ideas haven't changed much, so if you are on a budget get the early editions – you can often get very good deals on them.
 
   The genius of these books is the job Stephens does of explaining the thought process that lets you learn first hand about networking protocols. I highly, highly recommend these as a classroom resource.
+
+## Pair Programming
+
+Pair programming is a collaborative programming method that is used in industry – many effective teams use it as their dominant method, and some use it exclusively – and in educational settings to improve the productivity of programmers and the quality of the code they produce. It can encourage collaborative learning if taught and organized well (and it also stretches computer resources).
+
+Some of the best resources/practices I've seen for introducing and coaching pair programming with adults are from the [Global Day of Code Retreat](http://globalday.coderetreat.org). I think these methods would work well with students too, but I haven't tried them yet.
+
+Pair programming aligns well with Agile methods.
+
+* [Pair Programming](http://www.versionone.com/agile-101/pair-programming.asp)
+
+### Videos of pair programming teams at work
+
+The (serious, productive) interactions between the driver and navigator in a pair programming team are the core of the practice. I'm looking for some video of good teams at work, as it is kind of hard to explain to students what these interactions look and feel like.
+
+If you know of any, please send me a pull request.
+
+### Other pair programming resources
+
+* [Pair Programming-in-a-Box: The Power of Collaborative Learning](http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning) – the [National Center for Women & IT](http://www.ncwit.org)'s guide to pair programming as a learning technique (as opposed to a working method for professionals). The materials are aimed at college courses and would need to be modified for high school use. The package consists of a 32-page PDF and four Word documents (student guide, teacher guide, questionnaire, and a survey) that can be adapted to your situation.
 
 ## Software / Development Tools
 
@@ -45,7 +65,7 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 
  * [Adafruit](http://adafruit.com) – source for components and excellent tutorials. The site is built around the idea that hacking and learning are activities worth doing and supporting. There are excellent resources and project ideas for the Aruduino, Raspberry Pi and several other similar boards. The discussion forums provide access to people working on the tutorials. The site is also great inspiration for young women exploring career ideas in CS and electronics.
 
-* [Bootstrap](http://getbootstrap.com) – 
+* [Bootstrap](http://getbootstrap.com) –
  The great value of Bootstrap (as a teaching tool) is that it gives students a way to (relatively) easily make a good looking website without drowning in CSS details. To do this they have to develop the skill of reading code and documentation.
 
 ## Online Resources
@@ -59,9 +79,9 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 * [EdX]() – ditto.
 
 * [TED Talks](http://ted.com) and other short videos
- 
+
  My plan is to use these on Fridays, when we have short days, and as a backup plan for when I need a sub and don't have a lesson that would be easily taught by someone who doesn't know the field and/or the students.
- 
+
  I assume you know about TED… If not get acquainted right now! TED is a rich source of ideas on a huge range of subjects including CS, education, globalization, social problems and solutions. Here are some of my favorites with at least tangential connections to CS (and CS education). In no particular order:
 
  * [Eli Pariser: Beware online "filter bubbles"](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) – how algorithms narrow your world – for better and worse.
@@ -71,8 +91,8 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
  * [Yochai Benkler: The new open-source economics](http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics) – Yochai Benkler explains how collaborative projects like Wikipedia and Linux represent the next stage of human organization.
 
  * [Dr. Tae: Can Skateboarding Save Our Schools?](https://www.youtube.com/watch?v=lHfo17ikSpY) – skateboarding as a model for what education should be like.
- * [Ken Robinson: How to escape education's death valley](http://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley) – Sir Ken Robinson outlines 3 principles crucial for the human mind to flourish -- and how current education culture works against them. In a funny, stirring talk he tells us how to get out of the educational "death valley" we now face, and how to nurture our youngest generations with a climate of possibility. 
- * [Robin Chase: Excuse me, may I rent your car?](http://www.ted.com/talks/robin_chase_excuse_me_may_i_rent_your_car) – Robin Chase founded ZipCar, in this talk and the next one she talks about the experience and the larger implications of how we consume and share. 
+ * [Ken Robinson: How to escape education's death valley](http://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley) – Sir Ken Robinson outlines 3 principles crucial for the human mind to flourish -- and how current education culture works against them. In a funny, stirring talk he tells us how to get out of the educational "death valley" we now face, and how to nurture our youngest generations with a climate of possibility.
+ * [Robin Chase: Excuse me, may I rent your car?](http://www.ted.com/talks/robin_chase_excuse_me_may_i_rent_your_car) – Robin Chase founded ZipCar, in this talk and the next one she talks about the experience and the larger implications of how we consume and share.
  * [Robin Chase: The idea behind Zipcar (and what comes next)](http://www.ted.com/talks/robin_chase_on_zipcar_and_her_next_big_idea) – like the previous talk there are very interesting ideas about social structures that could make for interesting IA and EE topics for both CS and ITGS.
  * [Catherine Bracy: Why good hackers make good citizens](http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens) – Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved.
 
