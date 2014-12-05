@@ -29,7 +29,11 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 
 Pair programming is a collaborative programming method that is used in industry – many effective teams use it as their dominant method, and some use it exclusively – and in educational settings to improve the productivity of programmers and the quality of the code they produce. It can encourage collaborative learning if taught and organized well (and it also stretches computer resources).
 
-Some of the best resources/practices I've seen for introducing and coaching pair programming with adults are from the [Global Day of Code Retreat](http://globalday.coderetreat.org). I think these methods would work well with students too, but I haven't tried them yet.
+Some of the best resources/practices I've seen for introducing and coaching pair programming with adults are from the [Global Day of Code Retreat](http://globalday.coderetreat.org). I think these methods would work well with students too, but I haven't tried them in my classroom yet.
+
+* [Wikipedia article on pair programming](http://en.wikipedia.org/wiki/Pair_programming)
+* [Pair Programming in a Flash: How to Pair, and Why](https://pragprog.com/magazines/2011-06/pair-programming-in-a-flash)
+* [Pair Programming Benefits: Two Heads Are Better than One]()
 
 Pair programming aligns well with Agile methods.
 
