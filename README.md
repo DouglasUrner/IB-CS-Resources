@@ -16,6 +16,14 @@ Resources for teaching IB CS. Pull requests are welcome.
 
 ## Books
 
+### Texts
+
+* [Computer Science Illuminated](http://csilluminated.jbpub.com/3e/) – I haven't seen a copy of this book yet, but it is supposed to align reasonably well with the IB CS curriculum. The cost is significant, about $120 US on Amazon.
+
+### Classroom Library
+
+These are books to have around, some like Practical Object-Oriented Design in Ruby are close to being texts, they provide excellent depth and coverage for a large part of the material, but don't provide the breadth the course demands by themselves.
+
 * [Practical Object-Oriented Design in Ruby:
 An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily read (almost) introduction to OOP and Agile methods using Ruby. It is not a Ruby text, but the Ruby examples are quite accessible. An added bonus is that the author is a woman, so you get a positive role model at the same time.
 
