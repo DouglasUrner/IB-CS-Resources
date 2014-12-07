@@ -33,6 +33,9 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 
   The genius of these books is the job Stephens does of explaining the thought process that lets you learn first hand about networking protocols. I highly, highly recommend these as a classroom resource.
 
+* [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](http://www.sensible.com/dmmt.html),
+by Steve Krugg – This book and [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html) are excellent and accessible treatments of the subject of website usability and UI design in general. They would be very useful to students to an EE on topics related to web science.
+
 ## Pair Programming
 
 Pair programming is a collaborative programming method that is used in industry – many effective teams use it as their dominant method, and some use it exclusively – and in educational settings to improve the productivity of programmers and the quality of the code they produce. It can encourage collaborative learning if taught and organized well (and it also stretches computer resources).
