@@ -36,6 +36,17 @@ An Agile Primer](http://poodr.com), by Sandi Metz – this book is an easily rea
 * [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](http://www.sensible.com/dmmt.html),
 by Steve Krugg – This book and [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html) are excellent and accessible treatments of the subject of website usability and UI design in general. They would be very useful to students to an EE on topics related to web science.
 
+## Agile
+
+* [Explaining Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc) – Martin Fowler, co-author of the Agile Manifesto, and Neal Ford tackle the following question: Why does Agile software development work so well? They provide advice and stress the importance of communication, feedback as a crucial part of software development, the importance of boosting the creativity of developers, and how introspection is essential to continually improving the project.
+(Sep 6, 2013)
+* []() –
+* []() –
+* []() –
+* []() –
+* []() –
+
+
 ## Pair Programming
 
 Pair programming is a collaborative programming method that is used in industry – many effective teams use it as their dominant method, and some use it exclusively – and in educational settings to improve the productivity of programmers and the quality of the code they produce. It can encourage collaborative learning if taught and organized well (and it also stretches computer resources).
@@ -111,6 +122,7 @@ If you know of any, please send me a pull request.
  * [Robin Chase: Excuse me, may I rent your car?](http://www.ted.com/talks/robin_chase_excuse_me_may_i_rent_your_car) – Robin Chase founded ZipCar, in this talk and the next one she talks about the experience and the larger implications of how we consume and share.
  * [Robin Chase: The idea behind Zipcar (and what comes next)](http://www.ted.com/talks/robin_chase_on_zipcar_and_her_next_big_idea) – like the previous talk there are very interesting ideas about social structures that could make for interesting IA and EE topics for both CS and ITGS.
  * [Catherine Bracy: Why good hackers make good citizens](http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens) – Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved.
+ * []
 
 ## Software Communities
 
