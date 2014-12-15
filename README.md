@@ -38,14 +38,8 @@ by Steve Krugg – This book and [Rocket Surgery Made Easy: The Do-It-Yourself G
 
 ## Agile
 
-* [Explaining Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc) – Martin Fowler, co-author of the Agile Manifesto, and Neal Ford tackle the following question: Why does Agile software development work so well? They provide advice and stress the importance of communication, feedback as a crucial part of software development, the importance of boosting the creativity of developers, and how introspection is essential to continually improving the project.
+* [Explaining Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc) – Martin Fowl
 (Sep 6, 2013)
-* []() –
-* []() –
-* []() –
-* []() –
-* []() –
-
 
 ## Pair Programming
 
