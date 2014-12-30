@@ -84,6 +84,30 @@ By definition the first langage you learn affects the way you think about progra
 
 AKA ECMA-262
 
+##### JavaScript Fundamentals
+
+###### JavaScript 101 – Just enough to get something useful done.
+
+###### Understanding Scope – Because Javascript does some weird stuff
+
+Once you know about variables, it is time to learn about scope. Roughly speaking a variable's scope tells you where and when in the program the variable has meaning.
+
+JavaScript does several odd (at least if you know another language or two) things with scope:
+
+* There are two scopes: global and function. Unlike many other languages there is no block scope – JavaScript doesn’t give you new scope when you open up a pair of curlies.
+* Variables declared with `var` are "sensible" in their scope, variables declared in a function have function scope, variables declared outside of a function have global scope.
+* Variables can be declared implicitly by assigning to them. Those variables have __global__ scope – even when you declare them inside of a function! This __never__ turns out well – especially in big projects.
+* Variables "come to life" when they are declared – this means, for example, that even though a variable has function scope, it is not __defined__ (meaningful) in the function until is is declared. This means that a variable can be tested (without causing an error) before it is declared.
+
+
+* [JavaScript Scope](http://www.w3schools.com/js/js_scope.asp) – Start here, most days this will get you through most of the quirks of scope in JavaScript. Don't just read it, try the code. Think of some weird things and try them out. Play until you feel like you are understanding things – or until you have a question that you can't sort out. Ask a few of your peers, then if you are still unsure ask Google, then ask me.
+* [What You Need To Know About JavaScript Scope](http://www.smashingmagazine.com/2009/08/01/what-you-need-to-know-about-javascript-scope/) –
+* [Again With the Module Pattern – Reveal something to the world](http://christianheilmann.com/2007/08/22/again-with-the-module-pattern-reveal-something-to-the-world/) –
+* [jQuery: Extending bind() to define context of execution (scope)](http://www.sanghvilabs.com/2009/02/04/jquery-extending-bind-to-define-context-of-execution-scope/) –
+* [Javascript Closures](http://jibbering.com/faq/notes/closures/) – Not for the faint of heart.
+
+##### Other Interesting JavaScript Articles & Resources
+
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – language reference, tutorials, and other resources from the Mozilla Developer Network (MDN).
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) – free online copy of the book by the same title.
 * [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/) –
@@ -126,7 +150,7 @@ AKA ECMA-262
 
 MongoDB is an open-source document database. It is one of a class of databases referred to as a [NoSQL](http://en.wikipedia.org/wiki/NoSQL) database. MongoDB is the default underlying database for Meteor.
 
-* [Mongo Manual](http://docs.mongodb.org/manual/) – 
+* [Mongo Manual](http://docs.mongodb.org/manual/) –
 * []() –
 * []() –
 * [6 Rules of Thumb for MongoDB Schema Design: Part 1](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1) –
